@@ -1,0 +1,1 @@
+//contain display for searched results
